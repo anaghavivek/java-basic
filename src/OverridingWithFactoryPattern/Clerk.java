@@ -8,6 +8,8 @@ public class Clerk extends Employee{
    }
    void incrementSalary() {
 	   int totalSalary = baseSalary +dailyAllowance + 2000;
-		System.out.println("Incremented salary for clerk is :: " + totalSalary);
+		System.out.println("Incremented salary for clerk11 is :: " + totalSalary);
 	}
+   
+   /* change added */
 }
