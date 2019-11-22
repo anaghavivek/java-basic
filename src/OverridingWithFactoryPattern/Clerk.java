@@ -11,3 +11,5 @@ public class Clerk extends Employee{
 		System.out.println("Incremented salary for clerk is :: " + totalSalary);
 	}
 }
+
+/* this is another comment */
